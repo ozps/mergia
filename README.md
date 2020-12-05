@@ -38,7 +38,7 @@ $ ./mergia.py --src="/src" --des="/des" --prefix="IMG_0000" --start_num=0 --sort
 ```
 or (suggest)
 ```sh
-$ /mergia.py --src="/src" --des="/des" --prefix="IMG_0000" --start_num=54
+$ ./mergia.py --src="/src" --des="/des" --prefix="IMG_0000" --start_num=54
 ```
 
 <h2 id="rollback-python">[Optional] Rollback Python</h2>
