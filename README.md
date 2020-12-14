@@ -11,6 +11,7 @@ Note! In iOS, file number will count even though a new incoming file name is not
 
 ## Unsupported Media
 * Burst Image
+* Photos Created Image: AAE
 
 ## Requirements
 * Python 3.6.5+ (Tested on Python 3.6.12_1, macOS 11.0.1) 
