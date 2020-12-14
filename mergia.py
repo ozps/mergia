@@ -34,7 +34,7 @@ def merge_media(src, des, prefix, start_num, sort_media, show_same, show_unsuppo
     all_media_files = list(filter(lambda x: not x.startswith('.'), os.listdir(src_path)))
     num_of_media_files = 0
     num_of_move_media_files = 0
-    image_extensions = ['JPG', 'PNG']
+    image_extensions = ['JPG', 'JPEG', 'PNG']
     video_extensions = ['MOV', 'MP4']
     live_extensions = ['HEIC']
     support_extensions = image_extensions + video_extensions + live_extensions
